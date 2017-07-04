@@ -5,11 +5,11 @@
     id        = "kmrs.mobile.app"
     versionCode = "10"
     version   = "2.0">
-    <name>Karenderia Mobile App</name>
+    <name>Restaurent App</name>
     <description>
-        Karenderia mobile app version
+        Restaurent App
     </description>
-    <author email="bastikikang@gmail.com" href="http://cordova.io">
+    <author email="vantage.krishna@gmail.com" href="http://cordova.io">
         bastisapp.com
     </author>
             
